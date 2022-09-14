@@ -9,11 +9,11 @@
 </head>
 <body>
     <?php
-        include __DIR__ . '/../database.php';
+        include __DIR__ . '/./database.php';
     ?>
 
     <header>
-        <img src="./img/Logo.svg" alt="">
+        <img src="../img/Logo.svg" alt="">
     </header>
 
     <main>
